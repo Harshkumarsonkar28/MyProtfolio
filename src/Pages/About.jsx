@@ -53,7 +53,7 @@ const About = () => {
 
         {/* Resume Button */}
         <a
-          href="#"
+          href="/hasrshresume.pdf"
           download
           className="inline-block px-8 py-3 bg-yellow-400 text-indigo-900 font-semibold rounded-lg shadow hover:bg-yellow-300 transition duration-300"
         >
